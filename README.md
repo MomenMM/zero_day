@@ -2,4 +2,4 @@
 
 **hey there!**
 
-this project is about getting used with github, as almost all other projects here.
+this project is for me to get more used with github, as almost all other projects here.
